@@ -1,0 +1,32 @@
+{
+  "name": "vue-okyoky.kz",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port=3000",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^35.4.0",
+    "@ckeditor/ckeditor5-build-decoupled-document": "^35.4.0",
+    "@ckeditor/ckeditor5-vue": "^4.0.1",
+    "@popperjs/core": "^2.11.6",
+    "@vueuse/core": "^9.12.0",
+    "axios": "^1.2.2",
+    "bootstrap": "^5.2.3",
+    "bootstrap-vue": "^2.23.1",
+    "changelog": "^1.4.2",
+    "ckeditor5-custom-build": "github:mindoolla1289/custom-ckeditor5",
+    "pinia": "^2.0.29",
+    "vue": "^3.2.45",
+    "vue-router": "^4.0.13",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.57.1",
+    "vite": "^4.0.0"
+  }
+}
